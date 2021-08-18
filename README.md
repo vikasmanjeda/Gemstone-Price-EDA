@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vikas 
-- 👀 I’m interested in Machine learning, Programming and Data science
+- 👀 I’m interested in Machine learning, Programming and AI.
 - 🌱 I’m currently learning Data Science.
 
 <!---
